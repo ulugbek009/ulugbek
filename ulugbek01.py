@@ -83,7 +83,7 @@
 
 
 # # """hayvonot bog'i"""
-# # baho  = int(input("yoshingizni kiriting:"))
+# # baho  = int(input("yoshingizni kiriting:")) 
 # # if baho>=1 and baho<=7:
 # #     print("marhamat sizga bepul kiravering:")
 # # elif baho>=70 and baho<=100 :
