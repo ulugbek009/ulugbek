@@ -2,8 +2,6 @@
 # # # # # for i in range(100):
 # # # # #     print(f"{i+1} teng")
 
-
-
 # # # # # while True :
 # # # # #     son = int(input("son kiriting :" )) 
 # # # # #     print(f"{son}ning kvadrati {son**2} ga teng")
@@ -86,3 +84,4 @@
 #     elif a == 7:
         
 print()
+
