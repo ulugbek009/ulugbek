@@ -85,3 +85,27 @@
         
 print()
 
+"""11-11-2024"""
+from math import sqrt
+while 1 :
+    son  = input("son kiriting").lower()
+    if son .isdigit():
+        print(f"siz kiritigan son {son} uning ildzi {sqrt(int(son))}")
+    elif son == "exit":
+        print("Dastur tugai !")
+        break
+
+
+
+while True :
+    son = int(input("Son kiriting"))
+    print(f"siz kiritgan son{son} ning ildiz {sqrt(son)}")
+
+
+    savol = input("Chqishni hohlaysizmi (yes/no)").lower()
+    if savol == "yes":
+        print("dastur tugadi !")
+        break
+    elif savol == 'no' :
+        continue
+        
